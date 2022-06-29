@@ -1,1 +1,1 @@
-web: java -jar -Dspring.profiles.active=pdn build/libs/platzi-market-1.0.jar
+web: java -jar -Dspring.profiles.active=pdn build/libs/RestAPI_Market_JWT-1.0.jar
